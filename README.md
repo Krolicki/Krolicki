@@ -1,7 +1,9 @@
 Hi, I am Jakub Krolicki.
 
-I am currently working as an IT Service Desk Consultant / IT Specialist and study IT at State University.
+I am currently working as an IT Service Desk Consultant / IT Specialist.
 
-I am currently learning React JS.
+I graduated from State Academy and earned degree in computer science.
+
+I am currently learning React.
 
 Recently I got interested in Raspberry Pi and I am working at couple projects.
